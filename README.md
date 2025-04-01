@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18953682&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-The crucial role of timely delivery in projwct management.
+The crucial role of timely delivery in project management.
 1. Customer Satisfaction
 
 Meeting Expectations: Customers have expectations about when a project will be completed. Delivering on time fulfills those expectations and builds trust and confidence.
@@ -105,7 +105,7 @@ Cost control helps identify and address potential financial risks, such as unexp
 4. BY Improving Project Performance:
 By staying within budget and delivering projects on time and within scope, cost control contributes to overall project performance and client satisfaction. 
 
-5.By Enabling Informed Decision-Making:
+5. By Enabling Informed Decision-Making:
 Accurate cost data allows project managers to make informed decisions regarding resource allocation, scope changes, and project prioritization, leading to better project outcomes. 
 
 6. By Enhancing Profitability and ROI:
@@ -120,7 +120,7 @@ Cost control measures, such as regular cost reports and variance analysis, promo
 9. By Continuous Improvement:
 Regularly reviewing and improving cost control processes based on lessons learned from previous projects can lead to ongoing improvements in project cost management
 
-
+Strategies used to prevent budget overruns.
 1. Thorough project planning.
 2. Accurate cost estimation.
 3. Contingency budgeting.
